@@ -1,0 +1,37 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    padding: 2px 2px;
+    box-sizing: border-box;
+}
+.navbar, .navbar-brand, .navbar-header, #totalPrice{
+    font-size: 25px;
+}
+
+
+#nameBar{
+    font-size: 18px;
+}
+
+#comTitle{
+    font-size:60px;
+    font-weight: bold;
+}
+
+#topic, .topic, .orderTitle{
+    font-size:30px;
+    font-weight: bold;
+}
+
+#bigTopic{
+    font-size:48px;
+    font-weight: bold;
+}
+
+
+.detailTitle, .detailContent{
+    font-size:22px;
+}
+
+.hint{
+    font-size:12px;
+}
