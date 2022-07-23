@@ -6,6 +6,7 @@
 -- 產生時間： 2022 年 07 月 10 日 02:19
 -- 伺服器版本： 10.4.21-MariaDB
 -- PHP 版本： 8.0.19
+///
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
